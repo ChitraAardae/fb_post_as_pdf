@@ -1,0 +1,246 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 7,
+      "minor": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "QgdnrN5tnJlxvGqhCiktnGDY3jIgJ2U86X4JpTZyzZijldx/cw5PR+PFn4ziZXYO+6WafVJaJUotR9DlOeubeEMmSW0nvb4fc/fGoPVcpDLrz65hjH61xYZE/TOPSSRit+xafm9tX+VN8XTsI99tJ1ILjwlS683gUouORlr3vAui22aNu+Jg2hCwt2i4X3+nFAgy/16pAsE0KberwZfcQp0sE+uKChUP5nm8MCgEkksjADqgWlxQJ512DoGD3oYd9e9Ks8MsAyRT+Osy3Qsrm5thWuEaIutY5bJS/k2tTRLfdRnI8slD05vPw3LB41xZXngYE6jzksvu2a3Byw1t1AkOeJsP9YzW3P6/37V+Au3dPiHhqryxhDXrWLkMH4QsZ6xjwckGwAt4/iroBd7IQyNZ79mtyiXjtx5420SHlRi35mbJ0x2a1mV4Loxqaac6M61e8Ds6ds3HqbQRSlYWj98NeVWaUrSaFh8BWMgAf2keYCR9yA7O4yGNupW29ngxgH6O8J7ciWICU+hP9q5bhY/uSlmhxRyCg361fpTV3rxIl+0zWinEcu6ZwOGd5pgII6tkH8SlxWkOFSCeOlWbdGp4EAWz9zRdeMfkMEAzjklvTKr31erjbN/6PI2CXNBLbdxOynoabKOgiDnyCIa28bSe0EWrKxHvbnSO+DLEBDk="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "I9am8kiCH+mlQiknUaTVDLhvqw5QWlKNV+ndPj/RTEQJtHULErXOx3cSe8qWu5URQ2QZhfP1S5kLF5LesukvOQH/EEnHd3C8ISo4nFoWtgGZhfI7Px7Q/UVwx7l8x59bJgE4qcvKMJn+HJyMQeEd2XkosZmnJCiPEwSMrAZTuUoKxK+tR2STDbsPX4pdr6LKNbUJ3nq4f0q1JBcZSclmz3xAZQOAnL26MhmAfrEvBx66HPJ6J8rkcDotPjypPwpAz5aXTggxrTixLmBy3rtZW0AfzRaR167eIjrZR8ids4eRoiwzKGzjsYQl6fYU0t55h9dh2Bzyc8kDwvOrPD1W/WPta4RPpx0vX6dzOKYI6yR14C6otkF9BwCquFGg/tRxrD4Z8yC4eX1Gw4lQbMgPfZgnlcbeXP3wTU9gKZdEpFWM7AwhQz+1tBt+MyJ0yagknX3nd9qX+1SavWrs1VsUTXZijw4mhL/s1+iaCL80niO9hyYZcQeCvo7kiIEOHlwzXHOREfdb0R7+EC87NcGmq1Tucn77BfEtnxzttY0ncEJ0nNeYdnRiutHFiVXeUc2wwDo+OUN+o2ltwoxNHbjnlZLqsRhyo8PUWGgb6nWbK+gJVHvJJyVhSHqz1y5i2UVegW3s82ljAS3A/i6RArJxdQKSzpIYhYT83PoN552TXB0="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "NMhSO8YmPOFb4LidWpaqf3c50WeDksyDBycqVoVw9/paBy6b0HC7XJjxeddzabz2D7Cd7gLSbGO8VXh+oP3U1b1RwxICaCzQd1C45u8V1zNHiAyqhBBpCMdN1XAiniJ4kPZdPg740oIhsekj0l64N1+xeucnwZjQ9dXctu96acskXbq0vtSc+HNdIauu6AICJ3uZG2OPNqcKFRtdh47T3DQAr0iq2tuWBz1vZ6yrRyQ5+d6goK9bZFBCDbyTuykMs8qo7+hiXMAE580X2p2cTAwerCg1PbXz5gxN4PMukAfuO17M/Aj+2VeDxYRAV8GBa8dsibkGKuMCOjPaRY9AmlOISX4fzr/bWF/P9/wcfFHBWlP5lrIBhm/kITT8xmGyK9jPq5YSfzDchAWybZ9q03w/DFVRDWIZw6+EVjg9Gs/maqy7n22Pq+68khZUa2jAT9e5vYTPsH1tl2s2zt5hjMnKlG8yTu5s+llMInhiIzKsqDDmcHbteFGdG8g6pBjWLUNNW7HEn06qRFDm5RlYOcgVpev/8sBBb2kp01noJTzY6QIJ1mzuu+Vg5U0x0RCjn47nsnTz2NPCULZ+SqUIDz5sl31f7D14ndAlY671q2aExwslKPBDHcd01/RpDgcoYnikG+gqPhAGnEMppQLA4S5v+COnhLTQ/u1RHkWL6Hg="
+  },
+  {
+    "product": "pdfRender",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "SLsuSEgt7zgs1M3T+z9tPOo5cva6+etmES9cG/8O9i9G02029JkpJlFd15i47jaC3OWfqxx73/oy/6ZPwezCv8h1NnsJkYT3owrX/Py1pSCvHt6tt6FoCXs6mTc9WhO+dW3C+WfovSgBNy1DVVF8KKoJTKy0XMW9fshEq+Nl1oQMhskLIIyWbfhCvY+WKtWG6XI431i+tlYtU0lnyPJk0S7Zii3pJj6nvSGwIbKPgZT1VZrOBBJayYPrb7HsFrXS+2ur55+LIfh5ROyLoNGkyxJdzUQyK435ibgRf5ae5r+IPORR/sWkkzVwxdkq2iVx6E44+IuGjK7WucYtP677JmdATYsOQhbFl+kC1RlCfsrawyuOB3pzzv5ziXqlKsbRow73zm1nCMq6YqacqV37KjE9zztXBlqFDKQ5yctO7BsgPaRR1NyDXW+btlLfEh2hOk0+8kbRI3vIRT9+6OgV4OYYpqrmwhoG6jj3kc5JUDc4zxowS88klyuUDB+ch3qzpj8x51mgPOmL2ol0VI60MDwI0mbkKn3DAQJP/AvG5r30UPCa2dofm7SK2uHYDVEk4+FEkgozr6ZYcOkwbuTfZ1F3s11I6xXXIKZpUSNnvY1/maCfg7+7ADkXewuWpZ7/EpIJ1uecbFF3StqI/ggJDI39PW9MkvxLQlTuDRhuM2k="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "CyY/gixCg2Ol9ufMrQRbBVa5/OnLBO3LJdvBU6qWx/EVsyG2mrrITaZiXY60shVWVOqT4/HnKl4O0BqsEFM+NmRmSvdbhGzsP+YvtZBBDp+lZLZLf7rR9c0o8vZ0GDhrwusMi8Hn8wjb0nKmos8ZmF6ZRKdyUzKGzZ5U4yXivRqF+eSYuW/HC6xLzCkYn8ekqfX/c883b3V4Wyw0JX6BA9qh0fiThCjeYVmL79QOAGw4+bjqZXkaiJXaubOEg7QGdz1jwAw6gkmAH+pQgYXvFCespRZaKdLFNEqtbgPluWliu0lf1kUiI9qOf54pnsGWvlR09bjLOIPyF4IwCu1G3N+eguR1a93WcsqB9eMAy9znSG4zU3S0AenpW8fI3wRPAhjIvM/+G97cTvYVaFItoH265fYAnDEX69rNPfH1n4bLzkKIXI3qoXm2etKU5UhAbbbQ4mftlDHGko9kHNKpr+o4I2d3om/10bllFDr1QbqD5wizXtLSnMVDcgv+oHKmWco8IzDEA2C95DnYO31GJ9bbmEdTmYkpH+O5fCnFWHAL7AByiF2ugxG8dK8ZbbcTXUgmIAQ3OPmaEwrXbAHfZzdqOd5+XxHjXVz+n3eUwVbrJCirg7HrIoDul/yjnhCv4TcB2FbSZlb9OuqgBKA//7AC/kMfi/So95QFKJsTa58="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "I3h0VNRibzPTzCAP5Xnjoj/leb5NnQOU+4i9ffmzSkg/2G+hHs9PkQ83Bs04jV4dr+s61mIleDY0rlr6TVAnS36kNjoppYgcXoQXVd8tw/AjjZ0TpcByZqg4iWij2go1hUAzstx0loYE7xTOQRPFUcIMOpHYqv+06pYg10jDYSn4Z1XwZzdltyIZOqCvtUHPs0rAGYdpGr6i/mOkJdIz2TbBaVMuw0NXTyKmglmYmAhrwI0x4AkAeso0W3N7gebRbzZ/OZq+jsBpIba78ud31m4/6P658BCeKCKuJ/5Asy6fP2FJqu6z/QovmE6qIA6DDVUUovnPgXxqEfCW6YSyJFs+ztKq+xHGymDPkBz9aCzOkP9/x7Tqfx05VkMquogcjVgewKAyNCLsjt0UcihFpAP0cCNiyQkIJzcw7/FR3GQR1x+/vE+W+WjL6T+CM+mbCDxaUBiMesCm9/zMgo3DqsLhROzWwK2xte4QaoOcNAIVliY4zAF/9JDNqc4zUOxms3yi6+Typ7OB5Ule22qjuOSlYTWTj8bFUUgJKzntIvdI3wwWFPPyqth7g6YM8S3XDl2qQtMXpi3hOWeIlpyprbKlzeV8RSzW3JwcVt3nXSD0gvsgSBmkVgYy5H74VxtN+CPoFYoqHLWMKDFlHApWZYl1ZIYFX5CK5VGmVEcRzk0="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "dKenKwWppCn5EEZz8U3YEVZETdVIXGTTWtaCCBaLH0b31OSesVwuMGsS03Og75oGob7gRDB3cQfi5PZpKSh2+kuKG5B7nfVicVguPJfPW+DkpOaBUxl95WiGWbvBJG/N7FuSisCcDc/rN0YYwqCD8p9L2oXekMt2Rru7oSzscsycHl/9OeLgsicWJ0Rek0d8knWC63nn3lD3EO2MErcfL7nTA9q1bBBvLyc/KvgpQC8bDp6JwWGPypmqMcDITGdXTUpqV82DvHU9hm6cYwaY42P6cISvvRuJIrFIMnTNpBEkTBgP43h91NikjrCZJqwm20OimkyAa7slOROLF8qEPZNpUgQvtzlIgMDHdX0AZ7Yls1N1WQOPEXV92H72abznx1Bggsni0iE2HjfzwXuJqAQql9kWVNeg57Tpon44LF0cd++KTsn0BbsRt7lCV9ebyOm0TzCDEENZ0HUyRBNhmAgaIP5t/x3U2hqQsNHKkJjzedP231Qjhm625nhbE9TYwOr6eUJVV05NzHQu44dydEUbi2qM37Nk0rcIVdQqp7lk1DPCurog6/WnL1I+xGnwn317FwbaFWBRQJkhDiKLCY19oaQIc5L5f/EfaUVoHZHMeGiUKlStWBAfe1E+YDjuP0d0ISwbUDyrva6pLP96XGgo8pyzPDd7gEp7xHcCNBI="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "QqCyiLYr714urzPX709ztzlIHmJpDOvbY8WRhauS0oNsOJHO3hX0rbciJfuKq+dWho9C996jviWqw1+llRAGjyCz5L2sb0o5Biz6JB7pIGy5E9PBqHVBfgZxZj6VGEFwMwQc6EoTa08mGNFd9jVKu3Fr7sQrxx+3OgML6auKYxrr5iKdflX+QRoQvOpo8Ku78E6ojO3/FNpHQ33bzRKk+rOaOXD1Q6T6uwu+h9SdN2YPgjw2srN7PZHMMy6Xjh1y/ZXEKVhhxwys7ubFKrlB6y5EuKp/5A0tvEJGHRZsrw+A2fxayoBlrCGl9JGiR/gq+A87S+rQ2jIIVkPv2WJIRlK8754ela5VTZgaLCn2hX/RjxFOde1UMeMfhKEm172ZkeFwcpdQBUWcCx1xX3IW+RXREOghohbbZEGfKEKKwTL4SywoWf6FTXJGyVVfc2q84utXt2ZJI/dl6qcCMS3l1WOWVcaLKk8AVaopJoDajuZ7d+cou3FL6FXpEddCGcELflI0Njsnqpm2OErCenSzJPdQX4jxg0Ud7J90M1ZIrUTAZJzWmrkZJ32Mc3MFZGivbC8ja8Og34twyGz8dOeUGRPnMVFFu8iJTUAkv24ESvJmLH/3bcbp747fK073PJxQqJGXQW9a/dieoWib//QwUG8zIliKn4VZV4c2d31LkbE="
+  },
+  {
+    "product": "pdfOffice",
+    "licensee": {
+      "company": "PV",
+      "name": "PRASANNA VENKATESH",
+      "email": "prasannavenkatesh20.01.2k1@gmail.com"
+    },
+    "key": "b79976b3bb91566d041295be299735ff15b3e353a89406a5606398bcefdc1717",
+    "creationDate": "2023-02-21",
+    "expirationDate": "2023-03-23",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "FjoQoJeXU4264Q7pJPW9M5QbO+SSkhGZsMsTJTD2wbimXc6gQxdb46Si+ccg4gBaFx4RNM7ENM8euTZU09gQ+XZp+tUjQSAMukvLkp3vsLGYPScnuIN1K1JUUqqNbz0r+Ij5+3anKVbSnACPsTtMR0LX5lQ+AORzBavY3TgP2INdP7D0/YCV+LRC4FgBF+LDxkwCxKicl+vNh3XM6IIeE/GJbCCZT7BX1BR0lCu5hD7T4qfGrsDEpSa4rMzivaxmIzoSl7UnNGK+5zU8etfjynPpzvxXfCk3ENSz3i9DvSRy7+DgjGztm3yuFYQS6U0bHrECNeqmKtZl5vnTgcc5+BLh2b7pKpJ0gkGQuPbhpFj1/LDTJUEiFL0BeR5A1CRO2IdJrbVD+JWxAg1P6OzDR83UOw0lNfe1oWSrkf8/u7M8bVCJx3qKOGGRr6huqyYYiAvbz/p26qG4eO5muRtSuFPKNqTBgfFQ+mw0e8l0wkdEA2cJNvg6EAZDLNU1JQ0tDaxrSKfoy31nvgP65aMv62jsk/8yd2DEXpoPoIrSuTzjUbbsncRXTwy7pe0SbZVezGMIMgJXEeqpDz4eE5n5wRo9PaCmPdgw/BSY0zv01VLcBEnOnFQVdO1DZrR/1x5BkqOWYkwvQeyexlBVee3fPNb3/2gIaw/hAwG4xe+Qzzs="
+  }
+]
